@@ -21,7 +21,7 @@ $SITE = [
   'city'      => 'Gwalior, Madhya Pradesh',
   'address'   => 'Near Jiwaji University, City Centre Road, Gwalior, Madhya Pradesh, India',
   'map_query' => 'Dauji groups, Gwalior, Madhya Pradesh',
-  'hours1'    => 'Mon – Sat: 10:00 AM – 8:00 PM',
+  'hours1'    => 'Mon – Sat: 10:00 AM – 10:00 PM',
   'hours2'    => 'Sunday: By Appointment Only',
   'facebook'  => '#', 'instagram' => '#', 'youtube' => '#', 'linkedin' => '#', 'pinterest' => '#',
   'mail_to'   => 'info@daujiprojects.in',   // enquiries are emailed here
